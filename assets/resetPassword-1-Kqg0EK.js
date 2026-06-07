@@ -1,0 +1,1 @@
+import{i as e}from"./ajax-B02rIWpk.js";async function t(t){return await e(`/organizations/password/forgot`,{email:t},{noAuth:!0})}async function n(t,n,r){return await e(`/organizations/password/reset`,{password:t,email:n,code:r},{noAuth:!0})}export{t as n,n as t};

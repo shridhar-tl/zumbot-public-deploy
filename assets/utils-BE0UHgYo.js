@@ -1,0 +1,1 @@
+var e={},t=(t,n)=>e.showDialogFunction?.(t,n),n=()=>e.onHideFunction?.();export{n,t as r,e as t};

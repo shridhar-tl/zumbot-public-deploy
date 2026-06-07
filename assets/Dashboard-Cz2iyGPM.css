@@ -1,0 +1,1 @@
+@media (width>=640px){.metric-cards>[data-sm-right=true]{border-right:1px solid var(--border)!important;border-bottom:none!important}.metric-cards>div:not([data-sm-right]){border-bottom:none!important;border-right:none!important}}

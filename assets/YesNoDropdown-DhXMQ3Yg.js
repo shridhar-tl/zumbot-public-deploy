@@ -1,0 +1,1 @@
+import{n as e,t}from"./jsx-runtime-DRrq1xlQ.js";import{r as n}from"./TextBox-DvbM8UEB.js";e();var r=t(),i=({name:e,value:t,onChange:i,className:a})=>{let o=[{value:`yes`,label:`Yes`},{value:`no`,label:`No`}],s=t=>i(e,t===`yes`);return(0,r.jsx)(n,{className:a,options:o,onChange:e=>s(e),value:t?`yes`:`no`,showClear:!1,placeholder:``})};export{i as t};
