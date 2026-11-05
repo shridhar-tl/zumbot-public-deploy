@@ -1,0 +1,1 @@
+import{n as e}from"./snackbar-C5YveD9R-CdG2soKR.js";function t(t,n=`info`){e(t,void 0,{type:n})}function n(e){return e&&typeof e==`object`&&`value`in e?e.value:e}export{t as n,n as t};

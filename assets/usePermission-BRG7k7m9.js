@@ -1,0 +1,1 @@
+import{r as e}from"./auth-BjZUIrvG.js";function t(t){let n=e(e=>e.isSuperUser),r=e(e=>e.memberRole),i=e(e=>e.permissions);return n||r===`orgAdmin`?`edit`:i?.[t]??`none`}export{t};

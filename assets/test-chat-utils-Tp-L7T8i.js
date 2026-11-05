@@ -1,0 +1,1 @@
+var e=`zc-vid`;function t(e,t){if(e===`set-visitor-id`){let{recipientId:e}=t||{};e&&r(e)}}function n(){try{return localStorage.getItem(e)||void 0}catch(e){console.error(`Unable to use browser cache`,e)}}function r(t){try{localStorage.setItem(e,t)}catch(e){console.error(`Unable to use browser cache`,e)}}export{t as n,n as t};

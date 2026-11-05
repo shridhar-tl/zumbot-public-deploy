@@ -1,0 +1,1 @@
+var e=()=>{try{if(typeof process<`u`)return!1}catch{}return!0},t=new Set,n=(n,r,i)=>{e()&&(t.has(n)||(t.add(n),console.warn(`[FluxoUI] ${r}() was called but <${n} /> is not mounted, so nothing will show. Mount it once at your app root: ${i}`)))};export{n as t};

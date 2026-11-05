@@ -1,0 +1,1 @@
+import{t as e}from"./UserEditor-B82ssa4y.js";import{t}from"./jsx-runtime-ChORm44H.js";var n=t();function r(){return(0,n.jsx)(e,{mode:`org`})}export{r as default};
